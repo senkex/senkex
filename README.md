@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <img width="120" height="120" alt="anautic2" src="https://github.com/user-attachments/assets/8ffcd833-3d7f-49d4-8e45-e788930f9bcd" />
 
-<!--
-**senkex/senkex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>Creator and Working @ Nautic Studios</h3>
 
-Here are some ideas to get you started:
+  <p>
+    Project Manager — Gaming Events (Multi-game)<br>
+    Developer — Minecraft & Discord<br>
+    Graphic Designer — 2D & 3D | Blender & Cinema4D
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    Discord: Senkex | 
+    Server Commission: <a href="https://discord.gg/cdT5g5xsVq">Discord</a> | 
+    Behance: <a href="https://www.behance.net/nauticstudios">Portfolio</a>
+  </p>
+
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,js,discordjs,nodejs,maven,gradle,mysql,mongo,discord,vscode,idea,ps,ai,ableton" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senkex&theme=tokyo-night" />
+</div>
