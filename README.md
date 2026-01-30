@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="120" height="120" alt="anautic2" src="https://github.com/user-attachments/assets/8ffcd833-3d7f-49d4-8e45-e788930f9bcd" />
+  <img width="100" height="120" alt="anautic" src="https://github.com/user-attachments/assets/1dfc79fa-9e4c-4088-8d82-fe0f2c7a7dc6" />
+
 
   <h3>Creator and Working @ Nautic Studios</h3>
 
