@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    Discord: Senkex | 
+    Blog: <a href="https://senkex.blog/">Senkex</a> | 
     Server Commission: <a href="https://discord.gg/cdT5g5xsVq">Discord</a> | 
     Behance: <a href="https://www.behance.net/nauticstudios">Portfolio</a>
   </p>
