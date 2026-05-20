@@ -6,7 +6,7 @@
 
 <p>
   Project Manager — Gaming Events (Multi-game)<br>
-  Developer — Minecraft & Discord<br>
+  Developer & Config — Minecraft & Discord<br>
   Graphic Designer — 2D & 3D | Blender & Cinema4D
 </p>
 
