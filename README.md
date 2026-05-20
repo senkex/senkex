@@ -19,8 +19,4 @@
 
 <img src="https://skillicons.dev/icons?i=java,js,discordjs,nodejs,maven,gradle,mysql,mongo,discord,vscode,idea,ps,ai,ableton" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senkex&theme=tokyo-night" />
-
 </div>
