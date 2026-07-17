@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/2IWidsY.png" width="200" alt="anautic" />
 
-<h3>Creator and Working @ Aquatic Studios</h3>
+<h3>Wassup!</h3>
 
 <p>
   Project Manager — Gaming Events (Multi-game)<br>
